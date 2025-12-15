@@ -1,0 +1,72 @@
+ PROJECT: Global Retail Sales & Profit Analysis Dashboard
+Project Background
+
+You are working as a Business Data Analyst for a global retail chain operating across regions, states, and product categories. The company wants a complete Excel-based analytics solution to understand sales performance, profitability, customer behavior, and discount impact.
+Your job is to clean, transform, analyze, and visualize the dataset, then build a powerful dashboard for management.
+
+DATASET
+Columns Included:
+Order ID
+Order Date
+Customer Name
+Customer Type (New / Returning / VIP)
+Segment (Consumer / Corporate / Home Office)
+Region
+Country
+State
+City
+Category
+Sub-Category
+Product Name
+Quantity
+Unit Price
+Discount
+Shipping Cost
+Sales
+Profit
+Order Priority
+Payment Mode
+
+
+
+
+PROBLEM STATEMENT
+Design an Excel analytics system using the given dataset to answer the following:
+
+Create Dashboards
+Build a full Excel dashboard with slicers & interactive elements.
+Dashboard 1 — Sales Performance
+Include:
+Total Sales (KPI card)
+Total Profit (KPI card)
+Profit Margin %
+Sales by Region (Map chart or bar)
+Sales Trend by Month (Line chart)
+Category-wise Sales & Profit (Combo chart)
+Top 10 Products (Bar chart)
+Slicers:
+Year
+Category
+Region
+Customer Segment
+
+
+Dashboard 2 — Customer Insights
+Include:
+New vs Returning customer ratio
+Customer segment revenue share (Pie)
+Top 10 customers by revenue
+Average order value by segment
+Discount impact (Scatter plot)
+Slicers:
+Year
+State
+
+
+Dashboard 3 — Product Profitability
+Include:
+Profitability heatmap by Category & Sub-Category
+Discount vs Profit Margin scatter
+High-loss product list (conditional formatting)
+Category-wise YoY profit growth chart
+
